@@ -6,7 +6,6 @@ import Header from './Header';
 import Nav from './Nav';
 import Footer from './Footer';
 
-
 import ContactoPage from './ContactoPage';
 import HomePage from './HomePage';
 import NosotrosPage from './NosotrosPage';
@@ -15,7 +14,7 @@ import NovedadesPage from './NovedadesPage';
 function App() {
   return (
     <div className='App'>
-      
+     
       <Header />
 
       <BrowserRouter>

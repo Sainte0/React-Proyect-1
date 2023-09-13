@@ -1,11 +1,11 @@
-import React from 'react'
+import React from 'react';
 
 const ContactoPage = (props) => {
     return (
         <main className='Contacto Rapido'>
             <div>
                 <h2>Contacto Rapido </h2>
-                <form action="" method='' className='Formulario'>
+                <form action="" method='' className='formulario'>
                     <p>
                         <label for="Nombre"> Nombre </label>
                         <input type="text" name="" />
